@@ -1,4 +1,4 @@
-module github.com/rh-codebase/genutilsgo.git
+module github.com/rh-codebase/genutilsgo
 
 go 1.12
 
