@@ -1,0 +1,6 @@
+path: /a/b/c/testDb
+solar.mode:
+  - yml_fn: arx_solar.yml
+    key: /cfg/arx
+  - yml_fn: a.yml
+    key: /a/b
